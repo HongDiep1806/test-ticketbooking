@@ -1,6 +1,7 @@
 
 using Ticketbooking.DAL;
 using Microsoft.EntityFrameworkCore;
+using Ticketbooking.Services;
 
 
 
@@ -22,6 +23,10 @@ namespace Ticketbooking
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
+
+            //
+            builder.Services.AddScoped<IUserService, UserService>();
+            
 
             var app = builder.Build();
 

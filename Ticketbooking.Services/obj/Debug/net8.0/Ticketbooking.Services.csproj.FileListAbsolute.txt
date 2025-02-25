@@ -1,0 +1,6 @@
+E:\tictest\Ticketbooking.Services\obj\Debug\net8.0\Ticketbooking.Services.csproj.AssemblyReference.cache
+E:\tictest\Ticketbooking.Services\obj\Debug\net8.0\Ticketbooking.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\tictest\Ticketbooking.Services\obj\Debug\net8.0\Ticketbooking.Services.AssemblyInfoInputs.cache
+E:\tictest\Ticketbooking.Services\obj\Debug\net8.0\Ticketbooking.Services.AssemblyInfo.cs
+E:\tictest\Ticketbooking.Services\obj\Debug\net8.0\Ticketbooking.Services.csproj.CoreCompileInputs.cache
+E:\tictest\Ticketbooking.Services\obj\Debug\net8.0\Ticketbooking.Services.sourcelink.json
