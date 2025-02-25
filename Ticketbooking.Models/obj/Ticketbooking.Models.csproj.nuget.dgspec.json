@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\test-ticketbooking\\Ticketbooking.Models\\Ticketbooking.Models.csproj": {}
+    "E:\\tictest\\Ticketbooking.Models\\Ticketbooking.Models.csproj": {}
   },
   "projects": {
-    "E:\\test-ticketbooking\\Ticketbooking.Models\\Ticketbooking.Models.csproj": {
+    "E:\\tictest\\Ticketbooking.Models\\Ticketbooking.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\test-ticketbooking\\Ticketbooking.Models\\Ticketbooking.Models.csproj",
+        "projectUniqueName": "E:\\tictest\\Ticketbooking.Models\\Ticketbooking.Models.csproj",
         "projectName": "Ticketbooking.Models",
-        "projectPath": "E:\\test-ticketbooking\\Ticketbooking.Models\\Ticketbooking.Models.csproj",
+        "projectPath": "E:\\tictest\\Ticketbooking.Models\\Ticketbooking.Models.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "E:\\test-ticketbooking\\Ticketbooking.Models\\obj\\",
+        "outputPath": "E:\\tictest\\Ticketbooking.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

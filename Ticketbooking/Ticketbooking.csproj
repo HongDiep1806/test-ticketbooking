@@ -18,7 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\User\Commands\" />
+    <ProjectReference Include="..\Ticketbooking.Models\Ticketbooking.Models.csproj" />
+    <ProjectReference Include="..\Ticketbooking.Services\Ticketbooking.Services.csproj" />
   </ItemGroup>
 
 </Project>

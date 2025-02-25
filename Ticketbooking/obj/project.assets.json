@@ -1725,6 +1725,33 @@
             "rid": "win"
           }
         }
+      },
+      "Ticketbooking.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MediatR": "12.4.1"
+        },
+        "compile": {
+          "bin/placeholder/Ticketbooking.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ticketbooking.Models.dll": {}
+        }
+      },
+      "Ticketbooking.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MediatR": "12.4.1",
+          "Ticketbooking.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ticketbooking.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ticketbooking.Services.dll": {}
+        }
       }
     }
   },
@@ -5220,6 +5247,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Ticketbooking.Models/1.0.0": {
+      "type": "project",
+      "path": "../Ticketbooking.Models/Ticketbooking.Models.csproj",
+      "msbuildProject": "../Ticketbooking.Models/Ticketbooking.Models.csproj"
+    },
+    "Ticketbooking.Services/1.0.0": {
+      "type": "project",
+      "path": "../Ticketbooking.Services/Ticketbooking.Services.csproj",
+      "msbuildProject": "../Ticketbooking.Services/Ticketbooking.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5228,7 +5265,9 @@
       "Microsoft.EntityFrameworkCore >= 9.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.2",
-      "Swashbuckle.AspNetCore >= 6.6.2"
+      "Swashbuckle.AspNetCore >= 6.6.2",
+      "Ticketbooking.Models >= 1.0.0",
+      "Ticketbooking.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5238,11 +5277,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\test-ticketbooking\\Ticketbooking\\Ticketbooking.csproj",
+      "projectUniqueName": "E:\\tictest\\Ticketbooking\\Ticketbooking.csproj",
       "projectName": "Ticketbooking",
-      "projectPath": "E:\\test-ticketbooking\\Ticketbooking\\Ticketbooking.csproj",
+      "projectPath": "E:\\tictest\\Ticketbooking\\Ticketbooking.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "E:\\test-ticketbooking\\Ticketbooking\\obj\\",
+      "outputPath": "E:\\tictest\\Ticketbooking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5263,7 +5302,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\tictest\\Ticketbooking.Models\\Ticketbooking.Models.csproj": {
+              "projectPath": "E:\\tictest\\Ticketbooking.Models\\Ticketbooking.Models.csproj"
+            },
+            "E:\\tictest\\Ticketbooking.Services\\Ticketbooking.Services.csproj": {
+              "projectPath": "E:\\tictest\\Ticketbooking.Services\\Ticketbooking.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

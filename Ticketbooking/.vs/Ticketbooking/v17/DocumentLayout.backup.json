@@ -7,6 +7,15 @@
       "RelativeMoniker": "D:0:0:{6FAB494F-4C8C-4653-8D9C-3F933CE6A0AA}|Ticketbooking.csproj|solutionrelative:features\\user\\handlers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F2DB97E9-1B81-489B-81A6-41DF9E6C38F4}|..\\Ticketbooking.Models\\Ticketbooking.Models.csproj|e:\\test-ticketbooking\\ticketbooking.models\\webmodels\\user\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0DF483-2C1E-4B43-8095-6186E30DD96B}|..\\Ticketbooking.Repositories\\Ticketbooking.Repositories.csproj|e:\\test-ticketbooking\\ticketbooking.repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C6188A-9D74-4622-B49B-C630F66077C3}|..\\Ticketbooking.Services\\Ticketbooking.Services.csproj|e:\\test-ticketbooking\\ticketbooking.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FAB494F-4C8C-4653-8D9C-3F933CE6A0AA}|Ticketbooking.csproj|e:\\test-ticketbooking\\ticketbooking\\features\\user\\queries\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FAB494F-4C8C-4653-8D9C-3F933CE6A0AA}|Ticketbooking.csproj|solutionrelative:features\\user\\queries\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,19 +26,10 @@
       "AbsoluteMoniker": "D:0:0:{08C6188A-9D74-4622-B49B-C630F66077C3}|..\\Ticketbooking.Services\\Ticketbooking.Services.csproj|e:\\test-ticketbooking\\ticketbooking.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C6188A-9D74-4622-B49B-C630F66077C3}|..\\Ticketbooking.Services\\Ticketbooking.Services.csproj|e:\\test-ticketbooking\\ticketbooking.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2DB97E9-1B81-489B-81A6-41DF9E6C38F4}|..\\Ticketbooking.Models\\Ticketbooking.Models.csproj|e:\\test-ticketbooking\\ticketbooking.models\\webmodels\\user\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2DB97E9-1B81-489B-81A6-41DF9E6C38F4}|..\\Ticketbooking.Models\\Ticketbooking.Models.csproj|e:\\test-ticketbooking\\ticketbooking.models\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC0DF483-2C1E-4B43-8095-6186E30DD96B}|..\\Ticketbooking.Repositories\\Ticketbooking.Repositories.csproj|e:\\test-ticketbooking\\ticketbooking.repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0DF483-2C1E-4B43-8095-6186E30DD96B}|..\\Ticketbooking.Repositories\\Ticketbooking.Repositories.csproj|e:\\test-ticketbooking\\ticketbooking.repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC0DF483-2C1E-4B43-8095-6186E30DD96B}|..\\Ticketbooking.Repositories\\Ticketbooking.Repositories.csproj|e:\\test-ticketbooking\\ticketbooking.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -76,20 +76,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Permission.cs",
-              "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Models\\Entities\\User\\Permission.cs",
-              "RelativeDocumentMoniker": "..\\Ticketbooking.Models\\Entities\\User\\Permission.cs",
-              "ToolTip": "E:\\test-ticketbooking\\Ticketbooking.Models\\Entities\\User\\Permission.cs",
-              "RelativeToolTip": "..\\Ticketbooking.Models\\Entities\\User\\Permission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T06:35:14.085Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -98,14 +86,14 @@
               "RelativeDocumentMoniker": "Features\\User\\Handlers\\GetUsersQueryHandler.cs",
               "ToolTip": "E:\\test-ticketbooking\\Ticketbooking\\Features\\User\\Handlers\\GetUsersQueryHandler.cs",
               "RelativeToolTip": "Features\\User\\Handlers\\GetUsersQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T06:31:01.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GetUsersQuery.cs",
               "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking\\Features\\User\\Queries\\GetUsersQuery.cs",
               "RelativeDocumentMoniker": "Features\\User\\Queries\\GetUsersQuery.cs",
@@ -113,12 +101,11 @@
               "RelativeToolTip": "Features\\User\\Queries\\GetUsersQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T06:21:49.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T06:21:49.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Services\\UserService.cs",
               "RelativeDocumentMoniker": "..\\Ticketbooking.Services\\UserService.cs",
@@ -130,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Models\\Entities\\User\\User.cs",
               "RelativeDocumentMoniker": "..\\Ticketbooking.Models\\Entities\\User\\User.cs",
@@ -142,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Models\\WebModels\\User\\UserProfile.cs",
               "RelativeDocumentMoniker": "..\\Ticketbooking.Models\\WebModels\\User\\UserProfile.cs",
@@ -150,11 +137,12 @@
               "RelativeToolTip": "..\\Ticketbooking.Models\\WebModels\\User\\UserProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T03:07:07.865Z"
+              "WhenOpened": "2025-02-25T03:07:07.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IUserService.cs",
               "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Services\\IUserService.cs",
               "RelativeDocumentMoniker": "..\\Ticketbooking.Services\\IUserService.cs",
@@ -162,7 +150,33 @@
               "RelativeToolTip": "..\\Ticketbooking.Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:59:07.794Z"
+              "WhenOpened": "2025-02-25T02:59:07.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ticketbooking.Repositories\\BaseRepository.cs",
+              "ToolTip": "E:\\test-ticketbooking\\Ticketbooking.Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "..\\Ticketbooking.Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:36:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Models\\Entities\\User\\Permission.cs",
+              "RelativeDocumentMoniker": "..\\Ticketbooking.Models\\Entities\\User\\Permission.cs",
+              "ToolTip": "E:\\test-ticketbooking\\Ticketbooking.Models\\Entities\\User\\Permission.cs",
+              "RelativeToolTip": "..\\Ticketbooking.Models\\Entities\\User\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:35:14.085Z"
             },
             {
               "$type": "Document",
@@ -191,18 +205,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "..\\Ticketbooking.Repositories\\BaseRepository.cs",
-              "ToolTip": "E:\\test-ticketbooking\\Ticketbooking.Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "..\\Ticketbooking.Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:36:37.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "E:\\test-ticketbooking\\Ticketbooking.Repositories\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "..\\Ticketbooking.Repositories\\IBaseRepository.cs",
