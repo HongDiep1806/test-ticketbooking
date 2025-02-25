@@ -171,3 +171,11 @@ E:\Ticketbooking-BE\Ticketbooking\obj\Debug\net8.0\refint\Ticketbooking.dll
 E:\Ticketbooking-BE\Ticketbooking\obj\Debug\net8.0\Ticketbooking.pdb
 E:\Ticketbooking-BE\Ticketbooking\obj\Debug\net8.0\Ticketbooking.genruntimeconfig.cache
 E:\Ticketbooking-BE\Ticketbooking\obj\Debug\net8.0\ref\Ticketbooking.dll
+E:\test-ticketbooking\Ticketbooking\obj\Debug\net8.0\Ticketbooking.csproj.AssemblyReference.cache
+E:\test-ticketbooking\Ticketbooking\obj\Debug\net8.0\Ticketbooking.GeneratedMSBuildEditorConfig.editorconfig
+E:\test-ticketbooking\Ticketbooking\obj\Debug\net8.0\Ticketbooking.AssemblyInfoInputs.cache
+E:\test-ticketbooking\Ticketbooking\obj\Debug\net8.0\Ticketbooking.AssemblyInfo.cs
+E:\test-ticketbooking\Ticketbooking\obj\Debug\net8.0\Ticketbooking.csproj.CoreCompileInputs.cache
+E:\test-ticketbooking\Ticketbooking\obj\Debug\net8.0\Ticketbooking.MvcApplicationPartsAssemblyInfo.cs
+E:\test-ticketbooking\Ticketbooking\obj\Debug\net8.0\Ticketbooking.MvcApplicationPartsAssemblyInfo.cache
+E:\test-ticketbooking\Ticketbooking\obj\Debug\net8.0\Ticketbooking.sourcelink.json

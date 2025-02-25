@@ -7,7 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="WebModels\User\" />
+    <None Include="WebModels\User\UserProfile.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ticketbooking\Ticketbooking.csproj" />
   </ItemGroup>
 
 </Project>

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketbooking", "Ticketbook
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketbooking.Models", "..\Ticketbooking.Models\Ticketbooking.Models.csproj", "{F2DB97E9-1B81-489B-81A6-41DF9E6C38F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketbooking.Repositories", "..\Ticketbooking.Repositories\Ticketbooking.Repositories.csproj", "{FC0DF483-2C1E-4B43-8095-6186E30DD96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketbooking.Services", "..\Ticketbooking.Services\Ticketbooking.Services.csproj", "{08C6188A-9D74-4622-B49B-C630F66077C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F2DB97E9-1B81-489B-81A6-41DF9E6C38F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2DB97E9-1B81-489B-81A6-41DF9E6C38F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2DB97E9-1B81-489B-81A6-41DF9E6C38F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0DF483-2C1E-4B43-8095-6186E30DD96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0DF483-2C1E-4B43-8095-6186E30DD96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0DF483-2C1E-4B43-8095-6186E30DD96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0DF483-2C1E-4B43-8095-6186E30DD96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C6188A-9D74-4622-B49B-C630F66077C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C6188A-9D74-4622-B49B-C630F66077C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C6188A-9D74-4622-B49B-C630F66077C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C6188A-9D74-4622-B49B-C630F66077C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

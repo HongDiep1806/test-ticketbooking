@@ -1,0 +1,13 @@
+E:\test-ticketbooking\Ticketbooking.Models\bin\Debug\net8.0\Ticketbooking.Models.deps.json
+E:\test-ticketbooking\Ticketbooking.Models\bin\Debug\net8.0\Ticketbooking.Models.dll
+E:\test-ticketbooking\Ticketbooking.Models\bin\Debug\net8.0\Ticketbooking.Models.pdb
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\Ticketbooking.Models.csproj.AssemblyReference.cache
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\Ticketbooking.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\Ticketbooking.Models.AssemblyInfoInputs.cache
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\Ticketbooking.Models.AssemblyInfo.cs
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\Ticketbooking.Models.csproj.CoreCompileInputs.cache
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\Ticketbooking.Models.sourcelink.json
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\Ticketbooking.Models.dll
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\refint\Ticketbooking.Models.dll
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\Ticketbooking.Models.pdb
+E:\test-ticketbooking\Ticketbooking.Models\obj\Debug\net8.0\ref\Ticketbooking.Models.dll
